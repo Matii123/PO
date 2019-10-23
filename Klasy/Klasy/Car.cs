@@ -6,7 +6,7 @@ namespace Klasy
 {
     public class Car
     {
-        private string marka;
-        private int rok;
+        public string marka;
+        public int rok;
     }
 }
