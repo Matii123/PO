@@ -15,7 +15,7 @@ namespace Klasy
 
         private double ObliczSpalanie(double dlugoscTrasy)
         {
-            double srednieSpalanie = 0.05;
+            //double srednieSpalanie = 0.05;
             return srednieSpalanie * dlugoscTrasy;
         }
         public double ObliczKosztPrzejazdu(double dlugoscTrasy, double cenaPaliwa)

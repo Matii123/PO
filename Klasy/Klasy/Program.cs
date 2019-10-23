@@ -11,6 +11,7 @@ namespace Klasy
             Car car2 = new Car();
             car2.marka = "Ford";
             car2.rok = 1996;
+            car2.srednieSpalanie = 2;
             /*
             Console.WriteLine("car2: " + "marka: " + car2.marka + " " + "rok: " + car2.rok);
             car1 = car2;
@@ -22,7 +23,7 @@ namespace Klasy
             Console.WriteLine("car1: " + "marka: " + car1.marka + " " + "rok: " + car1.rok);
             Console.WriteLine("car2: " + "marka: " + car2.marka + " " + "rok: " + car2.rok);
             */
-            
+            Console.WriteLine("kosz przejazdu  {0} na trasie 100km wynosi: {1}", car2.marka, car2.ObliczKosztPrzejazdu(100, 1.98));
 
             Console.ReadKey();
 
