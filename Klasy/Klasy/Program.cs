@@ -6,8 +6,7 @@ namespace Klasy
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            int Mateusz;
+            Console.WriteLine("Hello World !");
 
         }
     }

@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Klasy
 {
-    class Car
+    public class Car
     {
-        string marka;
-        int rok;
+        private string marka;
+        private int rok;
     }
 }
