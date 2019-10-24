@@ -25,6 +25,22 @@ namespace Klasy
             */
             Console.WriteLine("kosz przejazdu  {0} na trasie 100km wynosi: {1}", car2.marka, car2.ObliczKosztPrzejazdu(100, 1.98));
 
+            Osoba dyrektor = new Osoba();
+            dyrektor.imie = "Jasio";
+            dyrektor.nazwisko = "Kowalski";
+            dyrektor.rokUrodzenia = 1950;
+            dyrektor.plec1 = Osoba.plec.M;
+            dyrektor.przedrostek();
+
+            Console.WriteLine("Imie: " + dyrektor.imie + " Nazwisko: " + dyrektor.nazwisko + " Wiek: " + dyrektor.obliczWiek(dyrektor.rokUrodzenia));
+
+            Osoba Pacjent = new Osoba();
+            Pacjent.imie = "Piotr";
+            Pacjent.nazwisko = "Nowak";
+            Pacjent.wzrost = 180;
+            Pacjent.waga = 68;
+            Pacjent.BMI();
+
             Console.ReadKey();
 
         }
