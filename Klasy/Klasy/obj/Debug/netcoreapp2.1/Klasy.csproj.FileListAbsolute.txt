@@ -9,3 +9,13 @@ C:\Users\local\source\repos\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.AssemblyIn
 C:\Users\local\source\repos\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.AssemblyInfo.cs
 C:\Users\local\source\repos\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.dll
 C:\Users\local\source\repos\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.pdb
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\bin\Debug\netcoreapp2.1\Klasy.deps.json
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\bin\Debug\netcoreapp2.1\Klasy.runtimeconfig.json
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\bin\Debug\netcoreapp2.1\Klasy.runtimeconfig.dev.json
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\bin\Debug\netcoreapp2.1\Klasy.dll
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\bin\Debug\netcoreapp2.1\Klasy.pdb
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.csprojAssemblyReference.cache
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.AssemblyInfoInputs.cache
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.AssemblyInfo.cs
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.dll
+C:\Users\mateu\Downloads\PO-C02\PO-C02\Klasy\Klasy\obj\Debug\netcoreapp2.1\Klasy.pdb

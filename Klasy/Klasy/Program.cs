@@ -41,6 +41,14 @@ namespace Klasy
             Pacjent.waga = 68;
             Pacjent.BMI();
 
+            koszyk kosz = new koszyk();
+            kosz.DodajProdukty(new Produkt("marchew", 3.50));
+            kosz.DodajProdukty(new Produkt("chleb", 4));
+            kosz.DodajProdukty(new Produkt("maslo", 2.50));
+            kosz.DodajProdukty(new Produkt("mleko", 3.50));
+
+            kosz.WyswietlProdukty();
+
             Console.ReadKey();
 
         }
