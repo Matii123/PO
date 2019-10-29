@@ -1,0 +1,6 @@
+C:\Users\mateu\source\repos\Klasy2\Klasy2\bin\Debug\Klasy2.exe.config
+C:\Users\mateu\source\repos\Klasy2\Klasy2\bin\Debug\Klasy2.exe
+C:\Users\mateu\source\repos\Klasy2\Klasy2\bin\Debug\Klasy2.pdb
+C:\Users\mateu\source\repos\Klasy2\Klasy2\obj\Debug\Klasy2.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Klasy2\Klasy2\obj\Debug\Klasy2.exe
+C:\Users\mateu\source\repos\Klasy2\Klasy2\obj\Debug\Klasy2.pdb

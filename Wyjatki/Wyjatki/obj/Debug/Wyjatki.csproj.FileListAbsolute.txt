@@ -1,0 +1,6 @@
+C:\Users\mateu\source\repos\Wyjatki\Wyjatki\obj\Debug\Wyjatki.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Wyjatki\Wyjatki\bin\Debug\Wyjatki.exe.config
+C:\Users\mateu\source\repos\Wyjatki\Wyjatki\bin\Debug\Wyjatki.exe
+C:\Users\mateu\source\repos\Wyjatki\Wyjatki\bin\Debug\Wyjatki.pdb
+C:\Users\mateu\source\repos\Wyjatki\Wyjatki\obj\Debug\Wyjatki.exe
+C:\Users\mateu\source\repos\Wyjatki\Wyjatki\obj\Debug\Wyjatki.pdb
