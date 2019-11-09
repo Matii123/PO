@@ -1,0 +1,6 @@
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\GraRPG\GraRPG\bin\Debug\GraRPG.exe.config
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\GraRPG\GraRPG\bin\Debug\GraRPG.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\GraRPG\GraRPG\bin\Debug\GraRPG.pdb
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\GraRPG\GraRPG\obj\Debug\GraRPG.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\GraRPG\GraRPG\obj\Debug\GraRPG.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\GraRPG\GraRPG\obj\Debug\GraRPG.pdb

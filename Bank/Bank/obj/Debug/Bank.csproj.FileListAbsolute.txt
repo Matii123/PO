@@ -1,0 +1,6 @@
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C04\Bank\Bank\obj\Debug\Bank.pdb
