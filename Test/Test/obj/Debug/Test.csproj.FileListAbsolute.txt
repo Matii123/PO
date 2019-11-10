@@ -1,0 +1,6 @@
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C05\Test\Test\bin\Debug\Test.exe.config
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C05\Test\Test\bin\Debug\Test.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C05\Test\Test\bin\Debug\Test.pdb
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C05\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C05\Test\Test\obj\Debug\Test.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C05\Test\Test\obj\Debug\Test.pdb
