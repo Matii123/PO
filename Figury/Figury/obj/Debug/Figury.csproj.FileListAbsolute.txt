@@ -1,0 +1,7 @@
+C:\Users\local\source\repos\Figury\Figury\bin\Debug\Figury.exe.config
+C:\Users\local\source\repos\Figury\Figury\bin\Debug\Figury.exe
+C:\Users\local\source\repos\Figury\Figury\bin\Debug\Figury.pdb
+C:\Users\local\source\repos\Figury\Figury\obj\Debug\Figury.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Figury\Figury\obj\Debug\Figury.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Figury\Figury\obj\Debug\Figury.exe
+C:\Users\local\source\repos\Figury\Figury\obj\Debug\Figury.pdb
