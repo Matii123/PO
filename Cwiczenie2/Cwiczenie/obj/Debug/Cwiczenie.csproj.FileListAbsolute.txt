@@ -1,0 +1,13 @@
+C:\Users\local\source\repos\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.exe.config
+C:\Users\local\source\repos\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.exe
+C:\Users\local\source\repos\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.pdb
+C:\Users\local\source\repos\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.exe
+C:\Users\local\source\repos\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.pdb
+C:\Users\mateu\Downloads\PO-C06\PO-C06\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.exe.config
+C:\Users\mateu\Downloads\PO-C06\PO-C06\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.exe
+C:\Users\mateu\Downloads\PO-C06\PO-C06\Cwiczenie\Cwiczenie\bin\Debug\Cwiczenie.pdb
+C:\Users\mateu\Downloads\PO-C06\PO-C06\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.csprojAssemblyReference.cache
+C:\Users\mateu\Downloads\PO-C06\PO-C06\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.exe
+C:\Users\mateu\Downloads\PO-C06\PO-C06\Cwiczenie\Cwiczenie\obj\Debug\Cwiczenie.pdb
