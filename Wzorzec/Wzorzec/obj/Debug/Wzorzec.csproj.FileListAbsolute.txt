@@ -1,0 +1,6 @@
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C11\Wzorzec\Wzorzec\bin\Debug\Wzorzec.exe.config
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C11\Wzorzec\Wzorzec\bin\Debug\Wzorzec.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C11\Wzorzec\Wzorzec\bin\Debug\Wzorzec.pdb
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C11\Wzorzec\Wzorzec\obj\Debug\Wzorzec.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C11\Wzorzec\Wzorzec\obj\Debug\Wzorzec.exe
+C:\Users\mateu\Desktop\Dokumenty\Studia\Programowanie obiektowe\PO-C11\Wzorzec\Wzorzec\obj\Debug\Wzorzec.pdb
